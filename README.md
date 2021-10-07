@@ -54,6 +54,7 @@ The decoder module of our Dictation Models consisted of four Transformer-based c
 
 ##  Pronunciation Model 
 - Transformer ( for phone embedding sequence ) 
+
     Details are as follows：
 ```
     num_blocks: 6
@@ -62,6 +63,7 @@ The decoder module of our Dictation Models consisted of four Transformer-based c
     output_size: 60
 ```
 - GRU ( for utterance-level embedding ) 
+
     Details are as follows：
 ```
     num_layers: 1
