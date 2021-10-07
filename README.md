@@ -62,9 +62,3 @@ The decoder module of our Dictation Models consisted of four Transformer-based c
     linear_units: 2048
     output_size: 60
 ```
-- GRU ( for utterance-level embedding ) 
-
-    Details are as follows：
-```
-    num_layers: 1
-```
