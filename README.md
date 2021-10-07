@@ -1,7 +1,3 @@
-# My first HackMD note (change me!)
-
-###### tags: `Tag(change me!)`
-: 
 ## Introduction
 This page contains the Experimental Setup for the ICASSP 2022 paper.
 
